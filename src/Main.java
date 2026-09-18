@@ -45,6 +45,17 @@ public class Main
         doubleQuotient=doubleOperandA/doubleOperandB;
         IO.println("The quotient of " + doubleOperandA+ " and " + doubleOperandB + " is "+ doubleQuotient);
 
+        double myLunchCost = 14.20;
+        int numOfKids = 2;
+        boolean rain = false;
+        double priceOfGas = 4.46;
+        int favNum = 9;
+        double shoeSize = 5.5;
+        int birthMonth = 1;
+        String fullName = "Tran Pham";
+
+
+
     }
 
 }
